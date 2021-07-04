@@ -4,7 +4,7 @@ The team members:
 
 Lan Zongwei (ghost_lzw)
 
-Li Haoran (Flashoar)
+Li Haoran (Flash-LHR)
 
 Xin Wang (weiqin)
 
